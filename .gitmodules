@@ -13,7 +13,7 @@
 [submodule "Tools/sitl_gazebo"]
 	path = Tools/sitl_gazebo
 	url = git@github.com:JohnSmithDoc/gazebo_v1_11_3.git
-	branch = main
+	branch = gazebo_for_master_v1_11_3
 [submodule "src/lib/matrix"]
 	path = src/lib/matrix
 	url = https://github.com/PX4/Matrix.git
